@@ -1,9 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
 import { useEffect, useState } from 'react';
-import Start from './components/Start';
+import './App.css';
 import Quiz from './components/Quiz';
 import Result from './components/Result';
+import Start from './components/Start';
 
 function App() {
 
